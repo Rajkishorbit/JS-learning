@@ -192,3 +192,8 @@ for(let x of arr){
 console.log(x);
 }
 let arr1=["ram","shyam","sita"];
+let arr2=[2,89,09,78,90];
+let x=7;
+let y="78"
+let z=x+y;
+console.log(z);
