@@ -191,3 +191,4 @@ let arr= "helloworld|";
 for(let x of arr){
 console.log(x);
 }
+let arr1=["ram","shyam","sita"];
